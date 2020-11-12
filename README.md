@@ -2,7 +2,7 @@
 Using the KNN (K Nearest Neighbors), Logistic Regression, and Decision Tree algorithms to classify the type of trees found in the Roosevelt National Park in Colorado.
 
 
-# Problem Statement: Classify the types of trees found in the Rossevelt National Park in Colorado.
+# Problem Statement: Classify the types of trees found in the Roosevelt National Park in Colorado.
 
 # Languages and Libraries Used: Python, Sklearn, Matplotlib, Pandas, Seaborn, Numpy.
 
